@@ -1,0 +1,12 @@
+.vote_average {
+  background: white;
+  width: 30px;
+  height: 30px;
+  border: 2px solid yellow;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
