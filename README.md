@@ -1,1 +1,1 @@
-vercel: movie-app-gray-five-20.vercel.app
+vercel: https://movie-app-git-main-kebabuus-projects.vercel.app
