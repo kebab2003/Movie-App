@@ -127,6 +127,7 @@ function App() {
         <MovieList movies={movies} getMovieRated={getMovieRated} movieRated={movieRated} />
         <div style={{ textAlign: 'center', marginTop: '20px' }}>
           <Pagination
+            style={{ justifyContent: 'center' }}
             current={currentPage}
             total={totalPages * 20}
             pageSize={20}
